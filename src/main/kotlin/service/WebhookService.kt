@@ -2,7 +2,6 @@ package ru.golovanov.service
 
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
-import ru.golovanov.dto.ActionMessage
 import ru.golovanov.utils.parseGithubEvent
 
 @Service

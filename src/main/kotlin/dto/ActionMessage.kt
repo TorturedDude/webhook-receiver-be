@@ -1,7 +1,6 @@
 package ru.golovanov.dto
 
 import ru.golovanov.enums.ActionType
-import java.time.LocalDateTime
 
 data class ActionMessage(
     val actionType: ActionType,
